@@ -1,1 +1,1 @@
-# Home Assistance on Raspberry Pi 0W or Raspberry Pi 0w2
+# Home Assistance on Raspberry PI 0W or Raspberry Pi 0W2
